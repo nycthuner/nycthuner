@@ -1,10 +1,9 @@
 <hr>
 <h4 align="center">
 Salveeee!!!!! Eu sou Nycolas, seja bem-vindo(a) ao meu perfil! <br>
-sou estudante de ciencias da computação. E aqui compartilho meus codigos malucos, que faço tanto de front quanto back, o que vier na mente to fazendo.
+sou estudante de ciencias da computação.
 <hr>
-  
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.tenor.com/pHcFx6Xa9BoAAAAC/jim-carrey-bruce-almighty.gif)
+
 
 <div>
 <img  height="180em"src="https://github-readme-stats.vercel.app/api?username=nycthuner&show_icons=true&theme=dracula">
